@@ -1,19 +1,43 @@
 {
-  "response": {
-      "success": true,
-      "loyaltyResult": {
-          "loyaltyItems": []
-      },
-      "actions": [
+  "onAppSignupResponse": {
+    "success": true,
+    "loyaltyResult": {
+      "loyaltyItems": []
+    },
+    "actions": [
+      {
+        "type": 3,
+        "attributes": [
           {
-              "type": 3,
-              "attributes": [
-                  {
-                      "type": 1,
-                      "value": "2"
-                  }
-              ]
+            "type": 1,
+            "value": "2"
           }
-      ]
-  }
+        ]
+      }
+    ]
+  },
+  "onAppPushGranted": {
+    "success": true,
+    "loyaltyResult": {
+      "loyaltyItems": []
+    },
+    "actions": [
+      {
+        "type": 2,
+        "attributes": []
+      }
+    ]
+  }, 
+  "onAppPushDenied": {
+    "success": true,
+    "loyaltyResult": {
+      "loyaltyItems": []
+    },
+    "actions": [
+      {
+        "type": 2,
+        "attributes": []
+      }
+    ]
+  } 
 }
