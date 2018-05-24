@@ -1,17 +1,19 @@
 {
-    "success": 1,
-    "loyaltyResult": {
-        "loyaltyItems": []
-    },
-    "actions": [
-        {
-            "type": 3,
-            "attributes": [
-                {
-                    "type": 1,
-                    "value": "2"
-                }
-            ]
-        }
-    ]
+  "response": {
+      "success": true,
+      "loyaltyResult": {
+          "loyaltyItems": []
+      },
+      "actions": [
+          {
+              "type": 3,
+              "attributes": [
+                  {
+                      "type": 1,
+                      "value": "2"
+                  }
+              ]
+          }
+      ]
+  }
 }
