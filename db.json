@@ -12,16 +12,16 @@
             {
               "Key": "sectionId",
               "Value": "732"
-            }
-          ]
-        }
+            },
         {
           "Type": 1,
           "Attributes": []
         }
       ]
       }
-  },
+    ]
+  }
+},
   "onAppPushGranted": {
     "d": {
       "Result": true,
