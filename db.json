@@ -1,49 +1,53 @@
 {
-  "onAppSignupResponse": {
+  "onAppSignUp": {
     "d": {
-      "success": true,
-      "loyaltyResult": {
-        "loyaltyItems": []
+      "Result": true,
+      "LoyaltyResult": {
+        "LoyaltyItems": []
       },
-      "actions": [
+      "Actions": [
         {
-          "type": 3,
-          "attributes": [
+          "Type": 2,
+          "Attributes": [
             {
-              "type": 1,
-              "value": "2"
+              "Key": "sectionId",
+              "Value": "732"
             }
           ]
+        }
+        {
+          "Type": 1,
+          "Attributes": []
         }
       ]
       }
   },
   "onAppPushGranted": {
     "d": {
-      "success": true,
-      "loyaltyResult": {
-        "loyaltyItems": []
+      "Result": true,
+      "LoyaltyResult": {
+        "LoyaltyItems": []
       },
-      "actions": [
+      "Actions": [
         {
-          "type": 2,
-          "attributes": []
+          "Type": 2,
+          "Attributes": []
         }
       ]
     }
-  }, 
+  },
   "onAppPushDenied": {
     "d": {
-      "success": true,
-      "loyaltyResult": {
-        "loyaltyItems": []
+      "Result": true,
+      "LoyaltyResult": {
+        "LoyaltyItems": []
       },
-      "actions": [
+      "Actions": [
         {
-          "type": 2,
-          "attributes": []
+          "Type": 2,
+          "Attributes": []
         }
       ]
     }
-  } 
+  }
 }
