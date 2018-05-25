@@ -12,13 +12,13 @@
             {
               "Key": "sectionId",
               "Value": "732"
-            },
-        {
-          "Type": 1,
-          "Attributes": []
-        }
-      ]
-      }
+            }
+          ]
+    },
+    {
+      "Type": 1,
+      "Attributes": []
+    }
     ]
   }
 },
