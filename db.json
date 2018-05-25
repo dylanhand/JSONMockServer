@@ -14,14 +14,28 @@
               "Value": "732"
             }
           ]
-    },
-    {
-      "Type": 1,
-      "Attributes": []
+        },
+        {
+          "Type": 2,
+          "Attributes": [
+            {
+              "Key": "sectionId",
+              "Value": "1045"
+            }
+          ]
+        },
+        {
+          "Type": 2,
+          "Attributes": [
+            {
+              "Key": "sectionId",
+              "Value": "734"
+            }
+          ]
+        }
+      ]
     }
-    ]
-  }
-},
+  },
   "onAppPushGranted": {
     "d": {
       "Result": true,
