@@ -86,8 +86,9 @@
         }
       ]
     }
-  },
-  "onAppPushGranted": {
+  }
+  /* , */
+  /* "onAppPushGranted": {
     "d": {
       "Result": true,
       "LoyaltyResult": {
@@ -114,5 +115,5 @@
         }
       ]
     }
-  }
+  } */
 }
