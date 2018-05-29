@@ -1,5 +1,5 @@
 {
-  "onAppLogin": {
+  "onFirstLaunch": {
     "d": {
       "Result": true,
       "LoyaltyResult": {
@@ -7,7 +7,21 @@
       },
       "Actions": [
         {
-          "Type": 1,
+          "Type": 4,
+          "Attributes": []
+        }
+      ]
+    }
+  },
+  "onLaunch": {
+    "d": {
+      "Result": true,
+      "LoyaltyResult": {
+        "LoyaltyItems": []
+      },
+      "Actions": [
+        {
+          "Type": 4,
           "Attributes": []
         }
       ]
