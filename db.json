@@ -62,33 +62,14 @@
           "Attributes": [
             {
               "Key": "sectionId",
-              "Value": "1045"
-            }
-          ]
-        },
-        {
-          "Type": 2,
-          "Attributes": [
-            {
-              "Key": "sectionId",
-              "Value": "734"
-            }
-          ]
-        },
-        {
-          "Type": 2,
-          "Attributes": [
-            {
-              "Key": "sectionId",
-              "Value": "909"
+              "Value": "732"
             }
           ]
         }
       ]
     }
-  }
-  /* , */
-  /* "onAppPushGranted": {
+  },
+  "onAppPushGranted": {
     "d": {
       "Result": true,
       "LoyaltyResult": {
@@ -115,5 +96,5 @@
         }
       ]
     }
-  } */
+  }
 }
