@@ -27,6 +27,20 @@
       ]
     }
   },
+  "onAppLogin": {
+    "d": {
+      "Result": true,
+      "LoyaltyResult": {
+        "LoyaltyItems": []
+      },
+      "Actions": [
+        {
+          "Type": 1,
+          "Attributes": []
+        }
+      ]
+    }
+  },
   "onAppSignUp": {
     "d": {
       "Result": true,
