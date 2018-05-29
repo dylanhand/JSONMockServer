@@ -41,34 +41,6 @@
       ]
     }
   },
-  "onAppSignUp": {
-    "d": {
-      "Result": true,
-      "LoyaltyResult": {
-        "LoyaltyItems": []
-      },
-      "Actions": [
-        {
-          "Type": 2,
-          "Attributes": [
-            {
-              "Key": "sectionId",
-              "Value": "732"
-            }
-          ]
-        },
-        {
-          "Type": 2,
-          "Attributes": [
-            {
-              "Key": "sectionId",
-              "Value": "732"
-            }
-          ]
-        }
-      ]
-    }
-  },
   "onAppPushGranted": {
     "d": {
       "Result": true,
