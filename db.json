@@ -23,8 +23,10 @@
         {
           "Type": 2,
           "Attributes": [
-            "Key": "sectionId",
-            "Value": "732"
+            {
+              "Key": "sectionId",
+              "Value": "732"
+            }
           ]
         },
         {
