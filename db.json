@@ -1,5 +1,5 @@
 {
-  "onFirstLaunch": {
+  "onLaunch": {
     "d": {
       "Result": true,
       "LoyaltyResult": {
@@ -13,7 +13,7 @@
       ]
     }
   },
-  "onLaunch": {
+  "onFirstLaunch": {
     "d": {
       "Result": true,
       "LoyaltyResult": {
