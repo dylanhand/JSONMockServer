@@ -26,7 +26,12 @@
             {
               "Key": "sectionId",
               "Value": "732"
-            },
+            }
+          ]
+        },
+        {
+          "Type": 2,
+          "Attributes": [
             {
               "Key": "sectionId",
               "Value": "1045"
