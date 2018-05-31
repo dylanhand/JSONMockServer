@@ -21,22 +21,13 @@
       },
       "Actions": [
         {
-          "Type": 2,
-          "Attributes": [
-            {
-              "Key": "sectionId",
-              "Value": "732"
-            }
-          ]
-        },
-        {
           "Type": 4,
           "Attributes": []
         }
       ]
     }
   },
-  "onAppLogin": {
+  "onLogin": {
     "d": {
       "Result": true,
       "LoyaltyResult": {
@@ -50,32 +41,22 @@
       ]
     }
   },
-  "onAppPushGranted": {
+  "onPermissionsGranted": {
     "d": {
       "Result": true,
       "LoyaltyResult": {
         "LoyaltyItems": []
       },
-      "Actions": [
-        {
-          "Type": 2,
-          "Attributes": []
-        }
-      ]
+      "Actions": []
     }
   },
-  "onAppPushDenied": {
+  "onPermissionsDenied": {
     "d": {
       "Result": true,
       "LoyaltyResult": {
         "LoyaltyItems": []
       },
-      "Actions": [
-        {
-          "Type": 2,
-          "Attributes": []
-        }
-      ]
+      "Actions": []
     }
   }
 }
