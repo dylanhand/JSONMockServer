@@ -2,9 +2,7 @@
   "onLaunch": {
     "d": {
       "Result": true,
-      "LoyaltyResult": {
-        "LoyaltyItems": []
-      },
+        "LoyaltyItems": [],
       "Actions": [
         {
           "Type": 4,
@@ -16,9 +14,7 @@
   "onFirstLaunch": {
     "d": {
       "Result": true,
-      "LoyaltyResult": {
-        "LoyaltyItems": []
-      },
+      "LoyaltyItems": [],
       "Actions": [
         {
           "Type": 4,
@@ -30,9 +26,7 @@
   "onLogin": {
     "d": {
       "Result": true,
-      "LoyaltyResult": {
-        "LoyaltyItems": []
-      },
+      "LoyaltyItems": [],
       "Actions": [
         {
           "Type": 1,
@@ -44,18 +38,14 @@
   "onPermissionsGranted": {
     "d": {
       "Result": true,
-      "LoyaltyResult": {
-        "LoyaltyItems": []
-      },
+      "LoyaltyItems": [],
       "Actions": []
     }
   },
   "onPermissionsDenied": {
     "d": {
       "Result": true,
-      "LoyaltyResult": {
-        "LoyaltyItems": []
-      },
+      "LoyaltyItems": [],
       "Actions": []
     }
   }
