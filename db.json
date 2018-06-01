@@ -3,12 +3,7 @@
     "d": {
       "Result": true,
       "LoyaltyItems": [],
-      "Actions": [
-        {
-          "Type": 4,
-          "Attributes": []
-        }
-      ]
+      "Actions": []
     }
   },
   "onFirstLaunch": {
@@ -17,7 +12,7 @@
       "LoyaltyItems": [],
       "Actions": [
         {
-          "Type": 5,
+          "Type": 4,
           "Attributes": []
         }
       ]
@@ -39,24 +34,14 @@
     "d": {
       "Result": true,
       "LoyaltyItems": [],
-      "Actions": [
-        {
-          "Type": 4,
-          "Attributes": []
-        }
-      ]
+      "Actions": []
     }
   },
   "onPermissionDenied": {
     "d": {
       "Result": true,
       "LoyaltyItems": [],
-      "Actions": [
-        {
-          "Type": 4,
-          "Attributes": []
-        }
-      ]
+      "Actions": []
     }
   }
 }
